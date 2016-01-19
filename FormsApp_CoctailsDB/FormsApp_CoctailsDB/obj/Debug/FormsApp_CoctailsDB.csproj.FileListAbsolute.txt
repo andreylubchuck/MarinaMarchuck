@@ -1,0 +1,10 @@
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.csprojResolveAssemblyReference.cache
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.Form1.resources
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.Properties.Resources.resources
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.csproj.GenerateResource.Cache
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\bin\Debug\FormsApp_CoctailsDB.exe
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\bin\Debug\FormsApp_CoctailsDB.pdb
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.exe
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.pdb
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.Select.resources
+F:\FormsApp_CoctailsDB\FormsApp_CoctailsDB\obj\Debug\FormsApp_CoctailsDB.Insert.resources
